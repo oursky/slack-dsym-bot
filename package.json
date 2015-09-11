@@ -1,0 +1,23 @@
+{
+  "name": "slack-dsym-bot",
+  "version": "0.1.0",
+  "description": "A simple slack-dsym-bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^0.7.2"
+  },
+  "engines": {
+    "node": "0.12.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oursky/slack-dsym-bot.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "license": "MIT"
+}

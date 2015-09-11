@@ -1,0 +1,7 @@
+{
+  "name": "Slack dSYM Bot",
+  "description": "",
+  "repository": "https://github.com/oursky/slack-dsym-bot.git",
+  "logo": "",
+  "keywords": ["node", "static"]
+}
